@@ -1,5 +1,5 @@
 # PerfectSyncForCC4
-Reworks the default Arkit blendshapes and adds them to the CC4 extended profile. Supports ARKIT, and the Extended VseeFace blendshapes, minus the experimental Vrchat visemes. I haven't added those yet.
+Reworks the default Arkit blendshapes and adds them to the CC4 standard profile. Supports ARKIT, with plans to support the Extended VseeFace blendshapes and experimental Vrchat visemes in the future.
 
 ## Release Notes
 
