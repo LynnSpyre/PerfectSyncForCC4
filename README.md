@@ -8,6 +8,8 @@ Reworks the default Arkit blendshapes and adds them to the CC4 standard profile.
  * Added bone baking for eyes and jaw, which should round out our profile
  * Switched profile from Extended to Standard to fix corruption bug.
  * As usual when installing, make sure to use "add" rather than "replace" mode, if you need the standard profile.
+ * Export tested in Blender 3.1
+ * If you find a bug, hit me up at show@lynnspyre.com
 
 
 ## Instructions
