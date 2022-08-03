@@ -3,6 +3,9 @@ Reworks the default Arkit blendshapes and adds them to the CC4 standard profile.
 
 ## Release Notes
 
+### 0.0.4 - 8/3/2022
+* Added Vrchat style vismes scheme as separate facial profile. Can be used with the Perfectsync profile. Two down, one to go!
+
 ### 0.0.3 - 8/2/2022
  * Removed all data from the facial profile that isn't arkit related. I'm going to create alternate profiles for emojis and vrchat style visemes in the future. 
  * Added bone baking for eyes and jaw, which should round out our profile
