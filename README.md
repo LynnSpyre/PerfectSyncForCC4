@@ -3,7 +3,7 @@ Reworks the default Arkit blendshapes and adds them to the CC4 standard profile.
 
 ## Release Notes
 
-### 0.0.5 - 8/2/2022
+### 0.0.5 - 8/3/2022
 * By user request, I re-uploaded the 0.0.2 version of the profile. This one is boneless, in that it has no bone baking in it.
 * On a related note: Treat the vrchat profile as experimental
 
